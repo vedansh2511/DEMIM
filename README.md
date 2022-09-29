@@ -1,4 +1,4 @@
-# DEMIM
+#DEMIM
 Discrete Element Modelling of Granular flows(IIT MANDI)
 
-This is a young group from IIT Mandi, which is working on Discrete Element Modelling of granular flows.
+This is Major Technical Project(MTP) of Final year Students of IIT Mandi.
